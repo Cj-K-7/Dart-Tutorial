@@ -8,4 +8,6 @@ void main() {
   };
 
   var name = player['name'];
+
+  print(name);
 }
